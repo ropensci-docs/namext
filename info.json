@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "cb6ea6b786a865eeb8b4dfceecb671acfffc2040",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-09-24 16:11:53",
+    "files": 2,
+    "merge": false,
+    "message": "name_extract fix\n"
+  },
+  "remote": "https://github.com/ropensci/namext",
+  "pkg": "namext"
+}
